@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# Script for i3 Window Manager
 # This file exists at ~/Pictures/wallpapers
 
 # This script changes background of the OS every X seconds
